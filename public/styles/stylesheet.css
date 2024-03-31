@@ -1,0 +1,29 @@
+#resume {
+    width: 90%;
+    height: 975px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 100px;
+}
+
+.background {
+    padding: 20px;
+    background-image: url("/public/images/bg-pattern-darkblue.webp");
+}
+
+#Profile {
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+}
+
+#logo {
+    padding-left: 20px;
+}
+
+ul {
+    list-style-type: none;
+  }
+  
+
